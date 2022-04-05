@@ -1,4 +1,4 @@
-Hola... Prueba de archivo
+Hola. Prueba de archivo
 EL archivo se modificò
 esta linea es nueva
 
